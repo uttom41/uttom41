@@ -1,4 +1,4 @@
-![logo](https://github.com/uttom41/uttom41/blob/4cd63c40931b61ba7b80665e728c591a1392cfd7/banner.jpg)
+![logo](https://github.com/uttom41/uttom41/blob/9e40e886607774c60dcacb73b2a417e7588d7488/banner.jpg)
 <h1 align="center">Hi 👋, I'm Uttom kumar mitra</h1>
 <h3 align="center">A dedicated iOS and Android developer from Bangladesh.</h3>
 
